@@ -1,24 +1,15 @@
-# va2
+# Opis zadatka
 
-## Project setup
-```
-npm install
-```
+Tvoj zadatak je poslati zahtjev u obliku imena na sva tri endpointa i na temelju tog zahtjeva 
+prikazati sve podatke u jednoj tablici.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Poveznice:  
+Postoje tri API endpointa: Za godine (https://agify.io/), za spol (https://genderize.io/) i za 
+nacionalnost (https://nationalize.io/).
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# Podaci
+Ime i prezime: David Šajina
 
-### Lints and fixes files
-```
-npm run lint
-```
+JMBAG: 0303088268
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Kolegij: Web aplikacije
